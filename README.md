@@ -3,9 +3,9 @@
 Description:
 This GitHub repository serves as a comprehensive resource for Python programming fundamentals, covering a wide range of topics essential for both beginners and intermediate learners. The repository is structured into distinct notebooks, each focusing on a key aspect of Python programming, providing detailed explanations, examples, and practical tips.
 
-Topics Covered:
+**Topics Covered:**
 
-1. Variables and Data Types:<br>
+**1. Variables and Data Types:**<br>
 Learn the basics of variable declaration, assignment, and common data types such as int, float, string, and boolean. Explore type conversion techniques for effective programming.
 
 2. Operators:<br>
@@ -47,5 +47,5 @@ Learn to create and use decorators for modifying functions. Understand generator
 14. Regular Expressions:<br>
 Explore basic pattern matching using regular expressions. Utilize the re module for powerful string manipulation and text processing.
 
-#14. Working with Dates and Times:<br> 
+15. Working with Dates and Times:<br> 
 Utilize the datetime module for performing date and time operations. Learn about formatting and parsing date/time strings for effective time management in your programs.
